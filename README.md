@@ -46,19 +46,6 @@ these are starting points, not rules. mix and match. add your own sections. remo
 
 the best SOUL.md is the one that makes *your* agent feel right.
 
-## contributing
-
-got a template that slaps? PRs welcome.
-
-keep the format consistent:
-
-- `# SOUL.md - [Name]`
-- italicized tagline
-- `## Core Truths` section
-- `## Boundaries` section
-- `## Vibe` section
-- `## Continuity` section
-
 ## license
 
 MIT. do whatever you want with these.
