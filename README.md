@@ -9,6 +9,8 @@ personality templates for [OpenClaw](https://github.com/openclaw/openclaw) agent
 
 every OpenClaw agent reads a `SOUL.md` file when it wakes up. this file defines who the agent *is* — personality, boundaries, how it talks, what it cares about.
 
+these also work with [Claude Code](https://claude.ai/claude-code), ChatGPT, and any AI tool that supports system-level personality files.
+
 think of it as your agent's DNA.
 
 ## the templates
@@ -62,8 +64,12 @@ MIT. do whatever you want with these.
 
 ## about
 
-made by [@BChopLXXXII](https://twitter.com/BChopLXXXII)
+made by [@BChopLXXXII](https://x.com/BChopLXXXII)
 
 built for vibe coders who just want their AI to feel less... corporate.
 
 ship it. 🚀
+
+---
+
+if this helped, [star the repo](https://github.com/BChopLXXXII/soul-templates) — it helps others find it.
