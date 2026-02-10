@@ -16,7 +16,7 @@ think of it as your agent's DNA.
 ## the templates
 
 | template | vibe | best for |
-|----------|------|----------|
+| ---------- | ------ | ---------- |
 | [01-chill-assistant](./templates/01-chill-assistant.md) | low-key, minimal, just helps | daily driver, general use |
 | [02-adhd-brain](./templates/02-adhd-brain.md) | structured, patient, no shame | task management, staying on track |
 | [03-sarcastic-dev](./templates/03-sarcastic-dev.md) | dry humor, ships anyway | devs who don't take themselves seriously |
@@ -51,6 +51,7 @@ the best SOUL.md is the one that makes *your* agent feel right.
 got a template that slaps? PRs welcome.
 
 keep the format consistent:
+
 - `# SOUL.md - [Name]`
 - italicized tagline
 - `## Core Truths` section
